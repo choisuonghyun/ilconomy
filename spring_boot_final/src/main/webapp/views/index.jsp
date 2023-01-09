@@ -10,5 +10,6 @@
 	<body>
 	<h1>Index, 메인페이지</h1>
 	<h3>push test</h3>
+	<h3>push test2</h3>
 	</body>
 </html>
